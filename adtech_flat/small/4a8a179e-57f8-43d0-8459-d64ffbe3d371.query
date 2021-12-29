@@ -1,0 +1,8 @@
+{
+  "query": "SELECT count(*) FROM system.adtech_flat",
+  "id": "4a8a179e-57f8-43d0-8459-d64ffbe3d371",
+  "gqr_flags": {
+    "only_plan_compilation": true
+  },
+  "jira_ticket": "DB-19131"
+}
